@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I'm @rpjoaogabriel and I'd like to introduce myself here... I'm 24 years old (1999) and I graduated from Centro Universitário de Votuporanga ([UNIFEV][1]) in december 2022 as a bacharelor in computer engineering. 
 <!--I took a gap year in 2023 and I had the privillege to travel the world a bit, I lived in Berlin for 3 month where I not only embraced a new culture but also cultivated a global mindset that I believe will enhance my ability to collaborate in a work enviroment in the near future.-->
 
